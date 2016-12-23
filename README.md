@@ -1,2 +1,2 @@
 # hello-world
-Test repository for GitHub tutorial
+I am a programming newbie currently learning Python and C.
